@@ -5,6 +5,6 @@
 - 😄 Pronouns: Ela/Dela
 
 
-### Minhas Contribuições Animadas
+
 
 ![Snake animation](https://raw.githubusercontent.com/NadiaMonfardini/NadiaMonfardini/output/github-contribution-grid-snake.svg?sanitize=true)
