@@ -7,5 +7,5 @@
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/NadiaMonfardini/NadiaMonfardini/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/NadiaMonfardini/NadiaMonfardini/output/github-contribution-grid-snake.gif" alt="Cobrinha de contribuições" />
 </p>
