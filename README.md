@@ -5,4 +5,7 @@
 - 😄 Pronouns: Ela/Dela
 
 
-![Snake animation](https://raw.githubusercontent.com/NadiaMonfardini/NadiaMonfardini/output/github-contribution-grid-snake.gif)
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/NadiaMonfardini/NadiaMonfardini/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+</p>
